@@ -1,4 +1,3 @@
-Instrucciones DDL
 --- TABLA CIUDAD ---
 CREATE TABLE Ciudad (
 	ciudad_id SERIAL PRIMARY KEY,
