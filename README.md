@@ -99,10 +99,10 @@ servilimar
 
 Este repositorio incluye:
 
-- `ddl_servilimar.sql`
+- `ddl_servilimar2.sql`
   - Contiene las instrucciones DDL para la creación de tablas y relaciones.
 
-- `dml_servilimar.sql`
+- `dml_servilimar2.sql`
   - Contiene las instrucciones DML para la inserción de registros de prueba.
 ---
 
